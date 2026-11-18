@@ -59,7 +59,7 @@
     },
     "SHRUTI_API_URL": {
       "description": "Your Shruti API URL",
-      "value": "https://api.shrutibots.site",
+      "value": "https://dash.shrutibots.in",
       "required": true
     },
     "SHRUTI_API_KEY": {
